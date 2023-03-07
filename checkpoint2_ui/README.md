@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+# Members
+
+Patiparn Panmee 63070198\
+Phudit Bunamorn 63070200\
+Yannapat Itthichairuecha 63070204
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
